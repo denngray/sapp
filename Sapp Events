@@ -1,1 +1,2 @@
 event_score 'w8 1; say * "$name captured a flag for the $team team!"'
+event_score 'say $n "Good Job, $name!"'
