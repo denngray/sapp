@@ -1,5 +1,0 @@
-event_score 'say * "Good Job, Nice score! $name !" ' -- Congradulates person who makes a flag captur publicly.
-event_join 'k *AbC* "No AbC  Clan Allowed on this server."' -- kicks players with AbC clan tags AbC change to clan tags of your choice.
-event_join 'b *AbC* "No AbC  Clan Allowed on this server."' -- bans players with AbC clan tags AbC change to clan tags of your choice.
-event_tk * 'say * " **server rules no betraying**  $name" ' -- Tells Team Killer not to betray team mates.
-event_score 'w8 1; say * "$name captured a flag for the $team team!"' -- Tells everyone the name of team player that scored a capture for their team color
