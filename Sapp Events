@@ -1,1 +1,1 @@
-
+event_score 'w8 1; say * "$name captured a flag for the $team team!"'
