@@ -1,5 +1,5 @@
 event_score 'w8 1; say * "$name captured a flag for the $team team!"' -- Congradulate player by name publicly saying what team cap was made on for flag capture.
 event_score 'say $n "Good Job, $name!"' -- Congradulate player by name publicly for flag capture.
-event_join 'k *ABC* "No ABC Clan Allowed."' -- Kick an entire Clan by Clan tags Ban on join.
+event_join 'k *ABC* "No ABC Clan Allowed."' -- Kick an entire Clan by Clan tags kick on join.
 event_join 'b *ABC* "No ABC Clan Allowed."' -- Ban an entire Clan by Clan tags ban on join.
-event_tk * 'say * " **server rules no betraying**  $name" ' -- Give player warning for team killing.
+event_tk * 'say * " **server rules no betraying**  $name" ' -- Give player public warning for team killing.
